@@ -1,0 +1,65 @@
+.trai{
+    background-color: #aeb6b3f9;
+    height: 100px !important;
+    margin-left: 100px !important;
+    margin-top: 10PX;
+ 
+}
+.trai h1{
+    text-align: center !important;
+    font-weight: bold;
+    font-size: 70px;
+    
+}
+
+.tra h1{
+    text-align: center !important;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+
+.tra{
+    background-color: #aeb6b3f9;
+    height: 100px !important;
+    margin-left: 100px !important;
+    margin-top: 10px;
+ 
+}
+
+.bobo{
+    width: 100px;
+    height: 100px;
+    padding-bottom: px;
+}
+
+.esi{
+    
+    margin-left: 900px;
+}
+ 
+.cadre{
+    background-color: #aeb6b3f9;
+    height: 450px !important;
+    margin-left: 100px!important;
+    margin-top: 50px !important;
+    border-radius: 30px;
+    text-align: center;
+}
+.souligne{
+    background-color: black;
+    height: 5px;
+    width: 200px;
+    margin-left: 360px;
+}
+
+.porte{
+    margin-top: 30px;
+    padding-left: 150px !important;
+}
+    
+.card-body{
+    padding-right: 300px;
+    
+}
+
