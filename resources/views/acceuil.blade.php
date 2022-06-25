@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{asset('css/acceuil.css')}}">
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>Document</title>
 </head>
 <body>
@@ -23,7 +24,8 @@
     </header>
 
 
-<form action="" >
+<form method="POST" action="" >
+    {{ csrf_field()}}
     <div class="container ">
         <div class="row">
     <div class="cadre col-sm-10 ">
@@ -64,8 +66,11 @@
                         </div>
                     </div>
                  </div>
-                    <div class="card-body">
+                    <div class="card-body" value= Valider>
+                        <input type="submit">
+                        
                         <a href="#" class="btn btn-primary rounded-pill"><strong>Valider</strong></a>
+                        </input>
                     </div>
             </div>
     </div>

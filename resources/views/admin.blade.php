@@ -57,5 +57,6 @@
 
 
     <script src="{{asset('js/bootstrap.js')}}"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
